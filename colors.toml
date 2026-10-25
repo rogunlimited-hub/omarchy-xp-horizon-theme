@@ -1,0 +1,36 @@
+# Windows XP Luna-inspired palette for Omarchy 4.0.6.
+# All functionality stays under Omarchy's stock theme pipeline.
+mode = "dark"
+
+accent = "#83bd36"
+selection = "#275fba"
+muted = "#87a5d4"
+
+background = "#174a9e"
+dark_background = "#103778"
+darker_background = "#0b285c"
+lighter_background = "#2866bf"
+
+foreground = "#f9fbff"
+dark_foreground = "#acc9ef"
+light_foreground = "#d8eaff"
+bright_foreground = "#ffffff"
+
+red = "#f06d54"
+yellow = "#f8cd56"
+orange = "#ec9f3d"
+green = "#79b72e"
+cyan = "#76d5e9"
+blue = "#5698eb"
+magenta = "#b899eb"
+brown = "#a37445"
+
+bright_red = "#ff947c"
+bright_yellow = "#ffe58e"
+bright_green = "#ade45e"
+bright_cyan = "#a9ecf4"
+bright_blue = "#9ccaff"
+bright_magenta = "#d2b9ff"
+
+hyprland_active_border = "#3984de #95c83d 45deg"
+hyprland_inactive_border = "#7997bd"
