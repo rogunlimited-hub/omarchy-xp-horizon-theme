@@ -4,7 +4,7 @@
 
 `LICENSES/CC-BY-4.0.txt` supplies the full CC BY 4.0 text for the following original project contributions, to the extent their contributors hold applicable rights:
 
-- `backgrounds/horizon-coast.png`: XP Horizon coastal background — Roger / XP Horizon. Supplied following a ChatGPT image-generation workflow. No claim that this is a photograph or exclusively owned artwork.
+- `backgrounds/horizon-coast.webp`: XP Horizon coastal background — Roger / XP Horizon. Supplied following a ChatGPT image-generation workflow. No claim that this is a photograph or exclusively owned artwork.
 - `preview.png`: Roger / XP Horizon desktop capture. Third-party application icons, interfaces and marks shown in the screenshot retain their respective rights; this license applies only to project-owned contributions.
 
 Suggested credit: “XP Horizon — Roger and XP Horizon contributors. Media licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Coastal image created through a ChatGPT image-generation workflow. Changes: [describe changes, or ‘unchanged’].” Retain notices, license link and change indications as applicable. This license grants no trademark rights and does not manufacture copyright in unprotectable material.

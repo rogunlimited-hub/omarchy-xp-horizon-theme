@@ -4,7 +4,7 @@
 
 ![XP Horizon desktop with separately installed optional Start menu and bar add-ons](preview.png)
 
-A coastal Omarchy colour theme with an original Horizon wallpaper. This repository is the **base theme only**: it contains `colors.toml`, `icons.theme`, `backgrounds/horizon-coast.png` and `preview.png`. It does **not** install the XP Start menu, Quick Launch, Show Desktop, Task Buttons, 4 px window borders/6 px corners, screensaver branding or startup sound.
+A coastal Omarchy colour theme with an original Horizon wallpaper. This repository is the **base theme only**: it contains `colors.toml`, `icons.theme`, `backgrounds/horizon-coast.webp` and `preview.png`. It does **not** install the XP Start menu, Quick Launch, Show Desktop, Task Buttons, 4 px window borders/6 px corners, screensaver branding or startup sound.
 
 Install the base theme with Omarchy's **Install → Style → Theme** menu and paste:
 
